@@ -14,3 +14,5 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p06 - operaciones matematicas
 - p07 - funciones trigonometricas
 - p08 - dividir cifras
+
+desde dell

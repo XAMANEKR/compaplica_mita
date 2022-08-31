@@ -15,4 +15,16 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p07 - funciones trigonometricas
 - p08 - dividir cifras
 
-desde dell
+#tarea
+- p09 - hipotenusa de un triangulo 
+- p10 - angulode triangulo
+- p11 - convertir temperaturas
+- p12 - volumen de un cilindro
+- p13 - calculo de horas
+- p14 - numero de la suerte
+
+#actividad 03
+- p15 - verificar numero
+- p16 - verificar suma
+- p17 - convertir temperaturas v2
+- p18 - paga de trabajador v2 

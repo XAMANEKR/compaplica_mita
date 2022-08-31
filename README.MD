@@ -23,7 +23,8 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p13 - calculo de horas
 - p14 - numero de la suerte
 
-#actividad 03
+
+#Actividad 03
 - p15 - verificar numero
 - p16 - verificar suma
 - p17 - convertir temperaturas v2

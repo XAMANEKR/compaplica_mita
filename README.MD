@@ -35,3 +35,10 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p20 - ley de newton
 - p21 - acepta estudiante
 - p22 - angulos
+
+#tarea 2
+- p23 - numeros consecutivos
+- p24 - numeros mayores
+- p25 - semana
+- p26 - calculo de notas
+- p27 - acepta estudiante

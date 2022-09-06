@@ -29,3 +29,9 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p16 - verificar suma
 - p17 - convertir temperaturas v2
 - p18 - paga de trabajador v2 
+
+#actividad 04
+- p19 - verificar suma v2
+- p20 - ley de newton
+- p21 - acepta estudiante
+- p22 - angulos

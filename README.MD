@@ -40,5 +40,20 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p23 - numeros consecutivos
 - p24 - numeros mayores
 - p25 - semana
-- p26 - calculo de notas
-- p27 - acepta estudiante
+- p26 - numeros romanos *
+- p27 - calculo de notas
+- p28 - acepta estudiante
+
+#actividad 05
+
+- p29 - numeros del 1 al 100
+- p30 - numeros del 100 al 1
+- p31 - numeros del 1 al 200 10 en 10
+- p32 - numeros del 1 al 200 centenas
+
+#actividad 06
+- p33 - cuenta suma pnc
+- p34 - tab multiplicar
+- p35 - tab multiplicar v2 *
+- p36 - tab conversion 
+- p37 - conjeturra de collaz

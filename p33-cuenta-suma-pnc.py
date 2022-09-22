@@ -12,11 +12,14 @@ while(True):
         suma+=num
         if num > 0 :
             cuenta_positivos += 1
+        elif num <0 :
+            cuenta_negativos +=1
+        elif num == 0 :
+            cuenta_ceros +=1
+        print(f"se introdujeron {cuenta} numeros")
+        print("la suma de los numeros es", suma)
+        print("positivos :", cuenta_positivos)
+        print("negativos:", cuenta_negativos)
+        print("ceros :", cuenta_ceros)
     else: 
         break
-
-print(f"se introdujeron {cuenta} numeros")
-print("la suma de los numeros es", suma)
-print("positivos :", cuenta_positivos)
-print("positivos :", cuenta_negativos)
-print("positivos :", cuenta_ceros)

@@ -7,6 +7,3 @@ while True:
             break
     else:
         lista.append(n)
-
-    
-print(f"mayor={mayor},menor={menor}")

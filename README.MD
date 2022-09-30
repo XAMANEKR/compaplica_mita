@@ -87,3 +87,13 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p57 – secuencia de n renglones v2
 - p58 – secuencia de n términos armónicos
 - p59 – secuencia de n términos v2
+
+#actividad 09
+-  p60 - vocales, consonantes
+-  p61 - contar letras, dígitos, símbolos
+-  p62 - dividir en palabras y contar
+    
+#actividad 10
+- p63 - procesar texto
+- p64 - formateo de datos ejemplo 1
+- p65 - formateo de datos ejemplo 2

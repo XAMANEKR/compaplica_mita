@@ -17,7 +17,7 @@ for palabra in palabras:
             if letra.lower() in "aeiou" : v = v +1
             else: c=c+1
     
-    print(f"-v{v:>4} c:{c:>4}")
+    print(f"v:{v:>4} c:{c:>4}")
 
 print(f"{'final':-^35}")
 

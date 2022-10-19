@@ -110,3 +110,34 @@ ESTE REPOSITORIO CONTIENE LOS PROGRAMAS DE PHYTON DESARROLLADOS DURANTE LA CLASE
 - p72 – agregar lista
 - p73 – remover lista
 - p74 – iterar lista
+
+# Actividad 12
+- p75 – procesar calificaciones
+- p76– sumar dos listas de n números
+- p77 – día de paga
+- p78 - nombres y edades
+- p79 – listas con aleatorios
+
+# tarea 06
+- p80 – procesar notas de clase
+- p81 – listas multiplica
+- p82 – mes días y nombre
+- p83 – listas aleatorios suma
+- p84 - ciudades
+- p85 - lista impares
+
+# Actividad 13
+- p86 – trabajando con conjuntos
+- p87 – operaciones entre conjuntos
+
+# Actividad 14
+- p90 – estudiante
+- p91 – calificaciones 
+
+# Actividad 15
+
+- p92 – nombres y edades
+- p93 – procesar pizza
+- p94 – estudiantes datos
+
+

@@ -1,13 +1,15 @@
 # Procesar pizza
 import os; os.system("cls")
-ingr = {"T":1.50, "P":3.50, "C":3.74, "A":0.40}
+
+print("pedido de pizza")
+ingr = {"E":4,"T":1.50, "P":3.50, "C":3.74, "A":0.40}
 base = 15
 st = 0
 tot = 0
-pedido = input("Ingredientes de la pizza ? ").upper()
+pedido = input("ingredientes [T]omate, [P]iñon, [C]hampiñon, [A]guacate [E]xtraqueso\n ").upper()
 
 for i in pedido:
-    if i in "TPCA":
+    if i in "TPCAE":
         st = st + ingr[i]
 st = st + base
 

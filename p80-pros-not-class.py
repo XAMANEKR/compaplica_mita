@@ -14,21 +14,22 @@ while n!="0":
     if n>0 and n<=100:
         num.append(n)
         s=s+n
-    elif n == 0 :
-        break
-
-p = s / len(num)
-menor=[]
-mp=[]   
-for num in num:
-        if num>p:
-            mp.append(num)
-        elif num<p:
-           menor.append(num)
+   
+        p = s / len(num)
+        menor=[]
+        mp=[]   
+        for num in num:
+               if num>p:
+                    mp.append(num)
+               elif num<p:
+                menor.append(num)
 
 
-print(f"Las notas ingresadas son : {len(num)} - {num}")
-print(f"La suma es: {s}")
-print(f"El promedio es: {p}")
-print(f"El numero menor es  : {min(num)} - {menor}")
-print(f"El numero mayor es  : {max(num)}") 
+        print(f"Las notas ingresadas son : {len(num)} - {num}")
+        print(f"La suma es: {s}")
+        print(f"El promedio es: {p}")
+        print(f"El numero menor es  : {min(num)} - {menor}")
+        print(f"El numero mayor es  : {max(num)}") 
+
+    if n == 0 :
+       break

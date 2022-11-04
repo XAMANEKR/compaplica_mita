@@ -1,5 +1,6 @@
 # Estudiantes y sus datos
-
+#{10,40,50,80}
+#{"hola","mundo"}
 import os; os.system('clear')
 grupo = [
 {'nombre':'Carlos','edad':45,'carrera':'sistemas','promedio':9} ,
@@ -19,11 +20,10 @@ for i in range(n):
 
     grupo.append(datos)
 
-print(f'Grupo completo: {grupo}')
-print(f'\nLos nombres de los estudiantes en el grupo: \n')
+print(f'Grupo final: \n {len(grupo)}-{grupo}\n\n')
 
 for e in grupo:
 
-    for k,v in e.items():
-        print(f'{k:<10} : {v}')
+    for dato,valor in e.items():
+        print(f'{dato:<10} : {valor}')
     print('')
